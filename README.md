@@ -46,3 +46,7 @@ Las ventas totales alcanzaron 7.627.241,97, con 10.000 pedidos registrados y 30.
 - Notebook de análisis: `/notebooks/analisis_ecommerce_2023.ipynb`
 - Dashboard de Power BI: `/dashboard/dashboard_ecommerce_2023.pbix`
 - Captura del dashboard: `/dashboard/dashboard_ecommerce.png`
+## Resultados principales
+## Dashboard
+
+![Dashboard E-Commerce](dashboard/dashboard_ecommerce.png)
